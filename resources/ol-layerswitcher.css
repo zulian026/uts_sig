@@ -48,7 +48,6 @@
   max-height: calc(100vh - 5.5em); /* Use viewport height instead of % */
 }
 
-
 .layer-switcher.shown.ol-control {
   background-color: transparent;
 }
